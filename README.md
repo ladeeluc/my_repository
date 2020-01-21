@@ -1,2 +1,2 @@
-# my_repository
-learn tes
+# my-repository
+learn test
